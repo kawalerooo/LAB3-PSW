@@ -2,7 +2,7 @@ using System;
 
 namespace ConsoleApp3
 {
-	public static class Task7
+	public static class Task3
 	{
 		public static void Run()
 		{
