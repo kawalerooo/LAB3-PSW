@@ -1,6 +1,6 @@
 using System;
 
-class Task1
+class Task1  //zad1
 {
     static void Main(string[] args)
     {
