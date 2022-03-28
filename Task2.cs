@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
 
-    class Program
+    class Task2
     {
         static void Main(string[] args)
         {
